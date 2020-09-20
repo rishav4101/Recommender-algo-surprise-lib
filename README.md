@@ -1,1 +1,3 @@
-# Recommender-algo-surprise-lib-
+# Recommender-algo-surprise-lib
+
+Algo for recommendation systems using surprise library.
